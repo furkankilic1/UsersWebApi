@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t9o1zsWKix52ZU1AoZtWjaXyL4b3jo4LBEqDMC/1dV7qHbZCQ5R1+quaa4bhQLsdkUxxALIR5+PyDDaHCLZ06g==",
+  "dgSpecHash": "SnmDyS22QnhuDGss3PbQCnrR39rlRAnDqbPd070hUFQyKQ8A17C9w2QDjjfuJvixZNEufW7fF0FE5LjDBVgbyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furkan\\Desktop\\UsersWebApi\\GoldtagSample.Domain\\GoldtagSample.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Furkan\\Documents\\GitHub\\UsersWebApi\\GoldtagSample.Domain\\GoldtagSample.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

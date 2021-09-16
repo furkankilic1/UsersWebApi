@@ -5728,11 +5728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Furkan\\Desktop\\UsersWebApi\\GoldtagSample.Domain\\GoldtagSample.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Furkan\\Documents\\GitHub\\UsersWebApi\\GoldtagSample.Domain\\GoldtagSample.Domain.csproj",
       "projectName": "GoldtagSample.Domain",
-      "projectPath": "C:\\Users\\Furkan\\Desktop\\UsersWebApi\\GoldtagSample.Domain\\GoldtagSample.Domain.csproj",
+      "projectPath": "C:\\Users\\Furkan\\Documents\\GitHub\\UsersWebApi\\GoldtagSample.Domain\\GoldtagSample.Domain.csproj",
       "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Furkan\\Desktop\\UsersWebApi\\GoldtagSample.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Furkan\\Documents\\GitHub\\UsersWebApi\\GoldtagSample.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5753,8 +5753,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Furkan\\Desktop\\UsersWebApi\\GoldtagSample.Core\\GoldtagSample.Core.csproj": {
-              "projectPath": "C:\\Users\\Furkan\\Desktop\\UsersWebApi\\GoldtagSample.Core\\GoldtagSample.Core.csproj"
+            "C:\\Users\\Furkan\\Documents\\GitHub\\UsersWebApi\\GoldtagSample.Core\\GoldtagSample.Core.csproj": {
+              "projectPath": "C:\\Users\\Furkan\\Documents\\GitHub\\UsersWebApi\\GoldtagSample.Core\\GoldtagSample.Core.csproj"
             }
           }
         }

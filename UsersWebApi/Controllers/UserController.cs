@@ -43,7 +43,7 @@ namespace GoldtagSampleFurkan.Controllers
         [HttpPut("UpdateUserEmail/{userId}/{userEmail}/{userPassword}/{userNewEmail}")]
         public User UpdateEmail(int userId, String userName, String userEmail, String userPassword, String userNewEmail)
         {
-            return users.UpdatePassword(userId, userName, userEmail, userPassword, userNewEmail);
+            return users.UpdateEmail(userId, userName, userEmail, userPassword, userNewEmail);
         }
     }
 }

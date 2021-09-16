@@ -26,6 +26,6 @@ If you want to run the project, change the connStr in UsersDbContext.cs file by 
 #### 5) Update Email
 ![5](https://user-images.githubusercontent.com/58864953/133658493-ce82408d-4182-4c10-bf56-070789de328a.png)
 
-
-
+#### Database Structure
+![6](https://user-images.githubusercontent.com/58864953/133658980-3384aae4-5854-474f-ba96-6408df1c507b.png)
 
